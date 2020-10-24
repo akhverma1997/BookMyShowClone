@@ -1,0 +1,2 @@
+rootProject.name='BookMyShowClone'
+include ':app'
